@@ -1,0 +1,27 @@
+{
+    "new york": {
+        "temperature": -7.69,
+        "description": "clear sky",
+        "timestamp": "2025-01-23T09:55:43.658599"
+    },
+    "delhi": {
+        "temperature": 23.05,
+        "description": "haze",
+        "timestamp": "2025-01-23T09:55:43.671174"
+    },
+    "kolkata": {
+        "temperature": 25.97,
+        "description": "haze",
+        "timestamp": "2025-01-23T09:55:43.685945"
+    },
+    "london": {
+        "temperature": 5.68,
+        "description": "overcast clouds",
+        "timestamp": "2025-01-23T09:55:43.697775"
+    },
+    "toronto": {
+        "temperature": -8.09,
+        "description": "broken clouds",
+        "timestamp": "2025-01-23T09:55:43.710932"
+    }
+}
